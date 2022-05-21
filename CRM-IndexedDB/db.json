@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Felix Vega",
+      "email": "felixvnolasco@hotmail.com",
+      "telefono": "4231241413",
+      "empresa": "UPIICSA",
+      "id": 26
+    },
+    {
+      "nombre": "Pedro Lopez ",
+      "email": "pedro@correo.com",
+      "telefono": "4423984423",
+      "empresa": "ESIME",
+      "id": 27
+    },
+    {
+      "nombre": "Carlos",
+      "email": "carlos@correo.com",
+      "telefono": "49236987492",
+      "empresa": "UPIITA",
+      "id": 28
+    }
+  ]
+}
